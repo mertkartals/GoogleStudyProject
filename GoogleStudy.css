@@ -1,0 +1,23 @@
+h1{
+    color: rgb(35, 35, 195);
+    text-align: center;
+    font-size: 60px;
+}
+
+
+.class{
+    text-align: center;
+}
+
+
+.rounded-search{        /*yuvarlak arama*/
+    border-radius: 15px; /* Yuvarlak yarıçapı ayarlama*/
+    border: 1px solid #ccc; /* kenarlık ekleme */
+    padding: 5px 10px; /* dolgu ayarlama */
+    width: 400px;
+}
+
+
+  
+  
+
